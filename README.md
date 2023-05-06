@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n4ngyq2d3ypp09pl?svg=true)](https://ci.appveyor.com/project/Turovae/ra16-components-store-class)
+
+---
+
 Страница интернет-магазина
 ===
 
