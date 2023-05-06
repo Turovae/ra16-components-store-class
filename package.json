@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Turovae/ra16-components-store-class/tree/gh-pages",
+  "homepage": "https://turovae.github.io/ra16-components-store-class/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
